@@ -13,7 +13,7 @@ approaches under different distance measures.
 ## Implementation
 
 The main implementation (and documentation) can be found in [dt.py](dt.py) and
-integrates into [https://scikit-learn.org/stable/](Sklearn).
+integrates into [Sklearn](https://scikit-learn.org/stable/).
 
 A sample invocation can be found below.
 
